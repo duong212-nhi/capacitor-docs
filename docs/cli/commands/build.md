@@ -1,3 +1,6 @@
+cd frontend
+npm install @capacitor/core @capacitor/cli
+npx cap init
 ---
 title: CLI Command - cap build
 description: Capacitor CLI - cap build
